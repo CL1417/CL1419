@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:061161,100:a82da8)
-
 # Hi there, 👋 I'm CL1417
 ### Mobile / iOS Developer  
 
@@ -20,5 +18,3 @@
 [💻 GitHub](https://github.com/CL1417)  
 
 ---
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:061161,100:a82da8)
