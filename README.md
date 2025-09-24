@@ -14,7 +14,7 @@
 ---
 
 🔗 **Links**  
-[📖 Tech Blog](https://angeloffury7.tistory.com/)  
+[📖 Tech Blog](https://www.notion.so/ec25114c334e4f4fa9e0dd9b3be02b67)  
 [💻 GitHub](https://github.com/CL1417)  
 
 ---
