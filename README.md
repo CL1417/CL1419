@@ -1,7 +1,7 @@
 # Hi there, 👋 I'm CL1417
 ### Mobile / iOS Developer  
 
-<img width="845" height="1037" alt="Hi there, My name is CL1417(03)" src="https://github.com/user-attachments/assets/b7934cec-0926-4254-970d-bde75375f21c"/>
+<img width="845" height="1037" alt="Hi there, My name is CL1417(03)" src="https://github.com/user-attachments/assets/61e612c8-55e9-486c-a12e-cec22ba563cf"/>
 
 ---
 
