@@ -13,8 +13,8 @@
 
 ---
 
-🔗 **Links**
-[📖 Tech Blog](https://www.notion.so/A-A-AlphaVersionSample-9-2cb6bf53d1c2808e969ecf463e076e29?source=copy_link)
-[💻 GitHub](https://github.com/CL1417)  
+🔗 **Links**  
+[📖 Tech Blog](https://www.notion.so/A-A-AlphaVersionSample-9-2cb6bf53d1c2808e969ecf463e076e29?source=copy_link)  
+[💻 GitHub](https://github.com/CL1417)
 
 ---
