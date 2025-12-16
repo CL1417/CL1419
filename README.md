@@ -6,8 +6,8 @@
 ---
 
 📚 **Stacks**  
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Objective-C-1572B6?style=flat-square&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
 <img src="https://img.shields.io/badge/RxSwift-F7DF1E?style=flat-square&logo=reactivex&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white"/>  
 
