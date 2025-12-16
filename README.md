@@ -14,7 +14,10 @@
 ---
 
 🔗 **Links**  
-[📖 Tech Blog](https://www.notion.so/A-A-AlphaVersionSample-9-2cb6bf53d1c2808e969ecf463e076e29?source=copy_link)  
-[💻 GitHub](https://github.com/CL1417)
-
+📖 Tech Blog (Notion · iOS Architecture & Production Code)
+https://www.notion.so/A-A-AlphaVersionSample-9-2cb6bf53d1c2808e969ecf463e076e29?source=copy_link
+🧱 Production-Grade iOS Structure (Notion · IDE-style)
+https://www.notion.so/2cb6bf53d1c2808e9fd5ceac181a7f68?v=2cb6bf53d1c281e4bbbe000c7e23f181&source=copy_link
+💻 GitHub
+https://github.com/CL1417
 ---
