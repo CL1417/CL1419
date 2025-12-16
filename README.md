@@ -14,8 +14,7 @@
 ---
 
 🔗 **Links** 
-📖 [Tech Blog](https://www.notion.so/2cb6bf53d1c2808ab6dcd4c5005d1e3b?v=2cb6bf53d1c2819abd41000cbad4acf6&source=copy_link)
-💻 [GitHub](https://github.com/CL1417)
-
+- 📖 [Tech Blog (Notion)](https://www.notion.so/A-A-AlphaVersionSample-9-2cb6bf53d1c2808e969ecf463e076e29?source=copy_link)
+- 💻 [GitHub](https://github.com/CL1417)
 
 ---
