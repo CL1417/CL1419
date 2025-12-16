@@ -14,7 +14,7 @@
 ---
 
 🔗 **Links**  
-- 📖 [🧱 Production-Grade iOS Architecture (Notion · IDE-style Structure)](https://www.notion.so/2cb6bf53d1c2808e9fd5ceac181a7f68?v=2cb6bf53d1c281e4bbbe000c7e23f181&source=copy_link)
+- 📖 [Tech Blog](https://www.notion.so/2cb6bf53d1c2808e9fd5ceac181a7f68?v=2cb6bf53d1c281e4bbbe000c7e23f181&source=copy_link)
 - 💻 [GitHub](https://github.com/CL1417)
 
 ---
